@@ -25,7 +25,7 @@ This repository supports our work on **popVAE**, a deep learning model for high-
 ```bash
 popVAE/
 ├── gee_scripts/             # JavaScript files to extract datasets from Google Earth Engine
-├── preprocessing_arcpy/     # ArcPy-based preprocessing scripts for geospatial data
+├── ArcGIS_preprocessing_arcpy/     # ArcPy-based preprocessing scripts for geospatial data
 ├── popVAE_model/            # Python code for the popVAE model, training, and inference
 ├── data/                    # (Optional) Directory for processed data or data download instructions
 ├── 2025145777.pdf           # Paper PDF
