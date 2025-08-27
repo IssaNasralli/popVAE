@@ -15,7 +15,7 @@ This repository supports our work on **popVAE**, a deep learning model for high-
 
 - Dataset extraction scripts using **Google Earth Engine**
 - Preprocessing tools using **ArcPy**
-- A VAE-based deep learning architecture implemented in **Python (TensorFlow/Keras)**
+- A VAE-based deep learning architecture implemented in **Python (TensorFlow 2.15/Keras)**
 - Links to all necessary datasets
 
 ---
