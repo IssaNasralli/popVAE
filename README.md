@@ -5,7 +5,6 @@ This repository provides the official implementation and data preparation script
 
 **Fine-Scale Population Estimation Using a Variational Autoencoder-Based Approach**  
 *Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
-📄 [Read the paper](./2025145777.pdf)
 
 ---
 
