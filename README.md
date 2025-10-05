@@ -35,7 +35,7 @@ The original collected geospatial dataset without any pre-processing or transfor
 
 ## 📂 Final Training Raster Dataset
 
-The final training raster dataset for **Tunisia** generated is available here:  
+The final training raster dataset for **Tunisia** generated, after all pre-processing transformation, is available here:  
 👉 [Download Tunisia Final Raster (Google Drive)](https://drive.google.com/file/d/12YaLwfOp-IPpgUMciMzb_lOR_eK4aL5B/view?usp=sharing)
 
 ## 📂 Population  Dataset
