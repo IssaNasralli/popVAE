@@ -1,10 +1,13 @@
 # popVAE: Fine-Scale Population Estimation Using a Variational Autoencoder-Based Approach
 
-This repository provides the official implementation and data preparation scripts for the paper:
+This repository provides the official implementation and data preparation scripts for our IJCNN paper:
 
 **Fine-Scale Population Estimation Using a Variational Autoencoder-Based Approach**  
 *Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
 
+This repository provides also the official implementation and data preparation scripts for our future paper which extend our  IJCNN paper above:
+**Three-Branch Hybrid Model for Fine-Grained Population Estimation with Adaptive Spatial Context Integration**
+*Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
 ---
 
 ## 🧠 Overview
