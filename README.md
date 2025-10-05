@@ -27,12 +27,10 @@ This repository supports our work on **popVAE**, a deep learning model for high-
 - Links to all necessary datasets
 
 ---
-https://drive.google.com/file/d/17ItohwGAKd94LMVAY86E11kG1oBwJoUG/view?usp=sharing
 
 ## 📂 Raw Geospatial Dataset
 
-The original collected geospatial dataset without any pre-processing or transformation are compressed and available here:  
-👉 [Download Tunisia Final Raster (Google Drive)](https://drive.google.com/file/d/12YaLwfOp-IPpgUMciMzb_lOR_eK4aL5B/view?usp=sharing)
+The original collected geospatial dataset without any pre-processing or transformation are compressed and available here:  👉 [Download (Google Drive)](https://drive.google.com/file/d/12YaLwfOp-IPpgUMciMzb_lOR_eK4aL5B/view?usp=sharing)
 
 ## 📂 Final Training Raster Dataset
 
