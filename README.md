@@ -11,7 +11,7 @@ This repository provides :
 **Three-Branch Hybrid Model for Fine-Grained Population Estimation with Adaptive Spatial Context Integration**
 *Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
 
-3) the raster training dataset
+3) the final training raster dataset
 
 4) the population datasets
 ---
