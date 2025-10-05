@@ -1,4 +1,4 @@
-# popVAE: Fine-Scale Population Estimation Using a Variational Autoencoder-Based Approach
+# Population Estimation Using Deep Learning and Geospatial Data
 
 1) This repository provides the official implementation and data preparation scripts for our IJCNN paper:
 
