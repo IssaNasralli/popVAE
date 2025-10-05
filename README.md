@@ -55,5 +55,5 @@ popVAE/
 ├── ArcGIS_preprocessing/    # ArcPy-based preprocessing scripts for geospatial data
 ├── popVAE_model/            # Python code for the popVAE model, training, and inference
 ├── popVAT_model/            # Python code for the popVAT model, training, and inference
-├── pop.md                # This file
+├── ins_population.csv       # The tabular population of INS 
 ├── README.md                # This file
