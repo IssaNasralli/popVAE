@@ -6,7 +6,7 @@ This repository provides :
 **Fine-Scale Population Estimation Using a Variational Autoencoder-Based Approach**  
 *Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
 
-2) the official implementation and data preparation scripts for our future journal paper which extend our IJCNN paper,
+2) the official implementation for our future journal paper which extend our IJCNN paper,
 
 **Three-Branch Hybrid Model for Fine-Grained Population Estimation with Adaptive Spatial Context Integration**
 *Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
