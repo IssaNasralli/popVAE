@@ -50,7 +50,7 @@ The Landscan population raster dataset for **Tunisia** (2020) is available here:
 👉 [Download (Google Drive)](https://drive.google.com/file/d/1PRqruoDi6GpFlOaR--N2v_h0sjl88jMz/view?usp=sharing)
 
 
-The INS population tab ular dataset for **Tunisia** (2020) is available in this repositry (ins_population.csv)  
+The INS population tabular dataset for **Tunisia** (2020) is available in this repositry (ins_population.csv)  
 
 
 
