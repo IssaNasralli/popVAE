@@ -11,9 +11,10 @@ This repository provides :
 **Three-Branch Hybrid Model for Fine-Grained Population Estimation with Adaptive Spatial Context Integration**
 *Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
 
-3) the final training raster dataset
+3) the initial raw Geospatial data without any pre-processing
+5) the final training raster dataset and coverted boundaries to raster files
 
-4) the population datasets
+6) the population datasets
 ---
 
 ## 🧠 Overview
@@ -26,6 +27,12 @@ This repository supports our work on **popVAE**, a deep learning model for high-
 - Links to all necessary datasets
 
 ---
+https://drive.google.com/file/d/17ItohwGAKd94LMVAY86E11kG1oBwJoUG/view?usp=sharing
+
+## 📂 Raw Geospatial Dataset
+
+The original collected geospatial dataset without any pre-processing or transformation are compressed and available here:  
+👉 [Download Tunisia Final Raster (Google Drive)](https://drive.google.com/file/d/12YaLwfOp-IPpgUMciMzb_lOR_eK4aL5B/view?usp=sharing)
 
 ## 📂 Final Training Raster Dataset
 
