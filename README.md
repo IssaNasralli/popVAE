@@ -1,7 +1,7 @@
 # Population Estimation Using Deep Learning and Geospatial Data
 This repository provides :
 
-1) the official implementation and data preparation scripts for our IJCNN paper,
+1) the official implementation and data preparation scripts for our IJCNN conference paper,
 
 **Fine-Scale Population Estimation Using a Variational Autoencoder-Based Approach**  
 *Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
