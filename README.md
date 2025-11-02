@@ -19,7 +19,7 @@ This repository provides :
 
 ## 🧠 Overview
 
-This repository supports our work on **popVAE**, a deep learning model for high-resolution population mapping using spatial contextual features extracted via a Variational Autoencoder (VAE). The codebase includes:
+This repository supports our work on **popVAE/popVAT**, a deep learning model for high-resolution population mapping using spatial contextual features extracted. The codebase includes:
 
 - Dataset extraction scripts using **Google Earth Engine**
 - Preprocessing tools using **ArcPy**
