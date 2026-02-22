@@ -6,20 +6,15 @@ This repository provides :
 **Fine-Scale Population Estimation Using a Variational Autoencoder-Based Approach**  
 *Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
 
-2) the official implementation for our future journal paper which extend our IJCNN paper,
-
-**Three-Branch Hybrid Model for Fine-Grained Population Estimation with Adaptive Spatial Context Integration**
-*Issa Nasralli, Imen Masmoudi, Hassen Drira, Mohamed Ali Hadj Taieb*  
-
 3) the initial raw Geospatial data without any pre-processing
-5) the final training raster dataset and coverted boundaries to raster files
+4) the final training raster dataset and coverted boundaries to raster files
 
-6) the population datasets
+5) the population dataset
 ---
 
 ## 🧠 Overview
 
-This repository supports our work on **popVAE/popVAT**, a deep learning model for high-resolution population mapping using spatial contextual features extracted. The codebase includes:
+This repository supports our work on **popVAE**, a deep learning model for high-resolution population mapping using spatial contextual features extracted. The codebase includes:
 
 - Dataset extraction scripts using **Google Earth Engine**
 - Preprocessing tools using **ArcPy**
@@ -51,10 +46,9 @@ The Landscan population raster dataset for **Tunisia** (2020) is available here:
 
 The INS population tabular dataset for **Tunisia** (2020) is available in this repositry (ins_population.csv)  
 
-Our population raster datasets for **Tunisia**  are available here:  
+Our population raster dataset for **Tunisia**  are available here:  
 👉 [Download popVAE population map (Google Drive)](https://drive.google.com/file/d/1El-42xVPGouFI8s4hrGo9tRN2qlplvTm/view?usp=sharing)
 
-👉 [Download popVAT population map (Google Drive)](https://drive.google.com/file/d/144qTJMNqwMi6JjsT-KorP9HB4IgxaWe5/view?usp=sharing)
 
 ---
 
@@ -65,6 +59,5 @@ popVAE/
 ├── gee_scripts/             # JavaScript files to extract datasets from Google Earth Engine
 ├── ArcGIS_preprocessing/    # ArcPy-based preprocessing scripts for geospatial data
 ├── popVAE_model/            # Python code for the popVAE model, training, and inference
-├── popVAT_model/            # Python code for the popVAT model, training, and inference
 ├── ins_population.csv       # The tabular population of INS 
 ├── README.md                # This file
