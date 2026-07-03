@@ -61,13 +61,14 @@ popVAE/
 ├── popVAE_model/            # Python code for the popVAE model, training, and inference
 ├── ins_population.csv       # The tabular population of INS 
 ├── README.md                # This file
+```
 
 
-If you use this repository, please cite the corresponding publications of **popVAT** and **popVAE**.
 
 ---
 
 ## 📁 Citation
+If you use this repository, please cite the corresponding publications of **popVAT** and **popVAE**.
 
 popVAE:
 ```bash
