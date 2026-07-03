@@ -66,6 +66,9 @@ popVAE/
 If you use this repository, please cite the corresponding publications of **popVAT** and **popVAE**.
 
 ---
+
+## 📁 Citation
+
 popVAE:
 ```bash
 @inproceedings{nasralli2025fine,
