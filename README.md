@@ -68,7 +68,7 @@ popVAE/
 ---
 
 ## 📁 Citation
-If you use this repository, please cite the corresponding publications of **popVAT** and **popVAE**.
+If you use this repository, please cite the corresponding publications of **popVAE**.
 
 popVAE:
 ```bash
